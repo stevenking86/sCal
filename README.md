@@ -1,0 +1,2 @@
+# sCal
+calendar application
